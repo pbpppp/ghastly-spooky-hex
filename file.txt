@@ -1,4 +1,5 @@
 string = "abc"
+something
 number = 1
 # something
 bool = True
