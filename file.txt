@@ -2,3 +2,4 @@ string = "abc"
 number = 1
 # something
 bool = True
+main
